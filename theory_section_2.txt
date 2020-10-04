@@ -1,0 +1,12 @@
+What is Java :
+
+General purpose --->  not constrined to just one platform, can be used for wide varienty of applications
+object oriented ---> helps to models real world scenarios in a more natural way.
+platform independent ---> write once run anywhere (regardless of operating system)
+concurrunt ---> promoted mutithreading (perform multiple activities at the same time)
+Very fast
+
+
+Java has automatic memeory management (using garbage collection). Programmers doen't have to directly manipulate memory
+to free up space like c and c++.
+
